@@ -1,0 +1,28 @@
+C:\Users\cult_\OneDrive\Desktop\ASSIGNMENT_NEW_VERSION\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.exe.config
+C:\Users\cult_\OneDrive\Desktop\ASSIGNMENT_NEW_VERSION\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.exe
+C:\Users\cult_\OneDrive\Desktop\ASSIGNMENT_NEW_VERSION\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.pdb
+C:\Users\cult_\OneDrive\Desktop\ASSIGNMENT_NEW_VERSION\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\Private_School.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\Desktop\ASSIGNMENT_NEW_VERSION\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\Private_School.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\ASSIGNMENT_NEW_VERSION\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\PRIVATE SCHOOL.exe
+C:\Users\cult_\OneDrive\Desktop\ASSIGNMENT_NEW_VERSION\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\PRIVATE SCHOOL.pdb
+C:\Users\cult_\OneDrive\Desktop\Assignment_VERSION 3\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.exe.config
+C:\Users\cult_\OneDrive\Desktop\Assignment_VERSION 3\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.exe
+C:\Users\cult_\OneDrive\Desktop\Assignment_VERSION 3\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.pdb
+C:\Users\cult_\OneDrive\Desktop\Assignment_VERSION 3\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\Private_School.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\Desktop\Assignment_VERSION 3\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\Private_School.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\Assignment_VERSION 3\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\PRIVATE SCHOOL.exe
+C:\Users\cult_\OneDrive\Desktop\Assignment_VERSION 3\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\PRIVATE SCHOOL.pdb
+C:\Users\cult_\OneDrive\Desktop\C# books\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.exe.config
+C:\Users\cult_\OneDrive\Desktop\C# books\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.exe
+C:\Users\cult_\OneDrive\Desktop\C# books\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.pdb
+C:\Users\cult_\OneDrive\Desktop\C# books\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\Private_School.csprojAssemblyReference.cache
+C:\Users\cult_\OneDrive\Desktop\C# books\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\Private_School.csproj.CoreCompileInputs.cache
+C:\Users\cult_\OneDrive\Desktop\C# books\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\PRIVATE SCHOOL.exe
+C:\Users\cult_\OneDrive\Desktop\C# books\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\PRIVATE SCHOOL.pdb
+C:\Users\Babis\Desktop\C# Files\Assignment_PART A\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.exe.config
+C:\Users\Babis\Desktop\C# Files\Assignment_PART A\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.exe
+C:\Users\Babis\Desktop\C# Files\Assignment_PART A\PRIVATE SCHOOL\PRIVATE SCHOOL\bin\Debug\PRIVATE SCHOOL.pdb
+C:\Users\Babis\Desktop\C# Files\Assignment_PART A\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\Private_School.csprojAssemblyReference.cache
+C:\Users\Babis\Desktop\C# Files\Assignment_PART A\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\Private_School.csproj.CoreCompileInputs.cache
+C:\Users\Babis\Desktop\C# Files\Assignment_PART A\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\PRIVATE SCHOOL.exe
+C:\Users\Babis\Desktop\C# Files\Assignment_PART A\PRIVATE SCHOOL\PRIVATE SCHOOL\obj\Debug\PRIVATE SCHOOL.pdb
